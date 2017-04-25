@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='协议'/>
+        <page name='基础1'/>
+        <page name='集合'/>
+        <page name='函数'/>
+        <page name='闭包'/>
+        <page name='枚举'/>
+        <page name='类和结构体'/>
+        <page name='方法'/>
+        <page name='继承'/>
+        <page name='构造过程'/>
+        <page name='析构函数'/>
+        <page name='自动引用计数'/>
+        <page name='可选链式调用'/>
+    </pages>
+</playground>
