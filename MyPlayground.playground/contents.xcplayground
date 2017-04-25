@@ -14,5 +14,7 @@
         <page name='析构函数'/>
         <page name='自动引用计数'/>
         <page name='可选链式调用'/>
+        <page name='错误处理__未解决'/>
+        <page name='类型转换'/>
     </pages>
 </playground>
