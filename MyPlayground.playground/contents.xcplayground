@@ -16,5 +16,7 @@
         <page name='可选链式调用'/>
         <page name='错误处理__未解决'/>
         <page name='类型转换'/>
+        <page name='扩展'/>
+        <page name='协议详解'/>
     </pages>
 </playground>
